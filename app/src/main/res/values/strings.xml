@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ChatsApp</string>
+    <string name="sender_me">Ben</string>
+    <string-array name="senders_array">
+        <item>Ben</item>
+        <item>Karşıdaki Kişi</item>
+    </string-array>
 </resources>
